@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on **SSAFY 8th**
+- 🔭 I’m currently studying on **SSAFY 8th**
 - 🌱 Daejeon, South Korea, Chungam National University, Information of Statistics
 - ✉️ scbsoccer@naver.com
 - 📫 **How to reach me**<br/>
