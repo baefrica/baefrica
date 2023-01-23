@@ -29,6 +29,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baefrica)](https://github.com/baefrica/github-readme-stats)
 <hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baefrica&layout=compact&theme=synthwave)](https://github.com/baefrica/github-readme-stats)
 <hr>
 
