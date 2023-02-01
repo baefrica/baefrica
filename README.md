@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=About%20Me&fontAlign=30&fontSize=25&textBg=true&animation=fadeIn&desc=I'm%20baefrica&descAlign=60&descAlignY=50&descSize=30)
 
-### Hi there 👋
+### Hi there 👋👋👋
 
 - 🔭 I’m currently studying on **SSAFY 8th**
 - 🌱 Daejeon, South Korea, Chungam National University, Information of Statistics
