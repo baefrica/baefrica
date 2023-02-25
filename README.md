@@ -8,6 +8,7 @@
 - 📫 **How to reach me**<br/>
   <a href="https://github.com/baefrica/"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.instagram.com/baefrica"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic-square&logo=Instagram&logoColor=white"/></a>
+  
 - ⌨️ **Tech Stack What I've used**<br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic-square&logo=Jira&logoColor=white"/>
