@@ -3,7 +3,7 @@
 ### Hi there 👋👋👋
 
 - 🔭 I’m currently studying on **SSAFY 8th**
-- 🌱 Daejeon, South Korea, Chungnam National University, Information of Statistics
+- 🌱 Daejeon, South Korea, Chungam National University, Information of Statistics
 - ✉️ scbsoccer@naver.com
 - 📫 **How to reach me**<br/>
   <a href="https://github.com/baefrica/"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic-square&logo=GitHub&logoColor=white"/></a>
