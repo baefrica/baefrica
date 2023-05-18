@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=About%20Me&fontAlign=30&fontSize=25&textBg=true&animation=fadeIn&desc=I'm%20SeongChan&descAlign=60&descAlignY=50&descSize=30)
 
-![Anurag's GitHub stats](https://cobby-play.com/api/user/badge/baefrica)
 
 ### Hi there 👋👋👋
 
