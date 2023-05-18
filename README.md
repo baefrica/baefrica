@@ -26,12 +26,4 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic-square&logo=Figma&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"/>
-<hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baefrica)](https://github.com/baefrica/github-readme-stats)
-<hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baefrica&layout=compact&theme=synthwave)](https://github.com/baefrica/github-readme-stats)
-<hr>
-
-[![Solved.ac scbsoccer](http://mazassumnida.wtf/api/v2/generate_badge?boj=scbsoccer)](https://solved.ac/scbsoccer)
