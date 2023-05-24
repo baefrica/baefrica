@@ -1,4 +1,4 @@
-### Hi. My name is Bae Seong Chan 👋👋👋
+## 👋👋👋 Hi. My name is Bae Seong Chan 👋👋👋
 
 - 🔭 I’m currently studying on **SSAFY 8th**
 - 🌱 Daejeon, South Korea, Chungnam National University, Information of Statistics
