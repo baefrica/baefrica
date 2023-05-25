@@ -18,10 +18,9 @@
 여러 사람들과 함께 일하기를 좋아합니다.
 </p>
 <br/>
-<br/>
-<h3 align="center"> 🔭 I’m currently studying on SSAFY 8th 🔭 </h3>
-<h3 align="center"> 🌱 Daejeon, South Korea, Chungnam National University, Information of Statistics 🌱 </h3>
-<h3 align="center"> ✉️ scbsoccer@naver.com ✉️ </h3>
+<h4 align="center"> 🔭 I’m currently studying on SSAFY 8th 🔭 </h4>
+<h4 align="center"> 🌱 Daejeon, South Korea, Chungnam National University, Information of Statistics 🌱 </h4>
+<h4 align="center"> ✉️ scbsoccer@naver.com ✉️ </h4>
 <br/>
 <br/>
 <h3 align="center"> 📫 How to reach me 📫 </h3>
@@ -69,4 +68,13 @@
     <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=plastic-square&logo=Gitlab&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=plastic-square&logo=Github&logoColor=white">
   </p>
+</div>
+<br/>
+<br/>
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaefrica&count_bg=%2300B881&title_bg=%2300885F&icon=&icon_color=%233765&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
