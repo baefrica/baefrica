@@ -18,7 +18,7 @@
 여러 사람들과 함께 일하기를 좋아합니다.
 </p>
 <br/>
-<h4 align="center"> 🔭 I’m currently studying on SSAFY 8th 🔭 </h4>
+<h4 align="center"> 🔭 I studied on SSAFY 8th 🔭 </h4>
 <h4 align="center"> 🌱 Daejeon, South Korea, Chungnam National University, Information of Statistics 🌱 </h4>
 <h4 align="center"> ✉️ scbsoccer@naver.com ✉️ </h4>
 <br/>
